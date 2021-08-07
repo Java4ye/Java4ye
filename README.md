@@ -1,21 +1,21 @@
 ### Github 情况
 
 
-[![Java4ye](https://github-readme-stats-phi-gules.vercel.app/api?username=RyzeYang&show_icons=true&theme=vue-dark)](https://github.com/RyzeYang)
+[![Java4ye](https://github-readme-stats-phi-gules.vercel.app/api?username=Java4ye&show_icons=true&theme=vue-dark)](https://github.com/RyzeYang)
 
 
-![Metrics](https://metrics.lecoq.io/RyzeYang?template=classic&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&isocalendar.duration=half-year&introduction.title=true&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Java4ye?template=classic&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&isocalendar.duration=half-year&introduction.title=true&config.timezone=Asia%2FShanghai)
 
 ### 主要仓库🐖 
 <br/>
 <div>
-<a href="https://github.com/RyzeYang/springboot-demo-4ye" style="display:inline-block">
-  <img align="center" src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=RyzeYang&repo=springboot-demo-4ye&show_icons=true&theme=vue-dark" />
+<a href="https://github.com/Java4ye/springboot-demo-4ye" style="display:inline-block">
+  <img align="center" src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=Java4ye&repo=springboot-demo-4ye&show_icons=true&theme=vue-dark" />
 </a>
   
 
-<a href="https://github.com/RyzeYang/SpringSecurity-Vuetify-Permissions-demo" style="display:inline-block">
-  <img align="right"  src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=RyzeYang&repo=SpringSecurity-Vuetify-Permissions-demo&show_icons=true&theme=vue-dark" />
+<a href="https://github.com/Java4ye/SpringSecurity-Vuetify-Permissions-demo" style="display:inline-block">
+  <img align="right"  src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=Java4ye&repo=SpringSecurity-Vuetify-Permissions-demo&show_icons=true&theme=vue-dark" />
 </a>
   
 </div>
