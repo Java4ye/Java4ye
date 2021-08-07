@@ -1,9 +1,8 @@
-### 介绍
+### Github 情况
+
 
 [![Java4ye](https://github-readme-stats-phi-gules.vercel.app/api?username=RyzeYang&show_icons=true&theme=vue-dark)](https://github.com/RyzeYang)
 
-
-### 情况
 
 ![Metrics](https://metrics.lecoq.io/RyzeYang?template=classic&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&isocalendar.duration=half-year&introduction.title=true&config.timezone=Asia%2FShanghai)
 
@@ -30,7 +29,6 @@
 
 <br/>
 
-### 让我们开始这一场意外的相遇吧！ 😄
 
 
 目前活跃的博客平台~ (可点击👇) 😝
@@ -39,8 +37,22 @@
 * [![Java4ye](https://img.shields.io/badge/CSDN-Java4ye-%2341b783)](https://blog.csdn.net/weixin_40251892)
   
 
+<br/>
+
+**部分文章** 😋
 
 
+* [Java中的锁居然有这么多!](https://mp.weixin.qq.com/s/r9HbTDwc4eyTAGwysS--zg)
+* [Springboot自动装配原理探索](https://mp.weixin.qq.com/s/QFGs57qJhsRcql2Zdeg2tg)
+* [花了2个钟才搞懂这AOP为啥没生效，水友却睡着了……](https://mp.weixin.qq.com/s/HkMKuVs0xND9oBLWXf-rxA)
+* [万字长文，带你快速上手这些池化技术！](https://mp.weixin.qq.com/s/D0nuvd1IWu4n5OqhesuPjA)
+* [服务发现机制SPI居然是破坏者？！](https://mp.weixin.qq.com/s/xz6XijCcl6vSd28n4AQtmw)
+* [四种引用类型在Springboot中的使用](https://mp.weixin.qq.com/s/uWJbqMdP_SWoO707inFGrQ)
+* [python爬取奥运会弹幕](https://mp.weixin.qq.com/s/pF-ykyomWZBcF8Yp_nzP3Q)
+
+
+
+### 让我们开始这一场意外的相遇吧！ 😄
 
 <br/>
 
