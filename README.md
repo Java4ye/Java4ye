@@ -18,8 +18,6 @@
   </a>
 
 
-  <div>
-
   <a href="https://github.com/Java4ye/SpringSecurity-Vuetify-Permissions-demo" style="display:inline-block">
     <img align="right"  src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=Java4ye&repo=SpringSecurity-Vuetify-Permissions-demo&show_icons=true&theme=vue-dark" />
   </a>
@@ -46,23 +44,15 @@
 
   **往期文章精选** 😋
 
-* [2021的技术文总结，当然得酷一点~](https://mp.weixin.qq.com/s/0PCN-X_W02vbNiJC2WrzTA)
-* [手把手带你玩转Spring](https://mp.weixin.qq.com/s/CCSNCYLDHqAkBxl6vcVTfQ)
-
-
+  * [2021的技术文总结，当然得酷一点~](https://mp.weixin.qq.com/s/0PCN-X_W02vbNiJC2WrzTA)
+  * [手把手带你玩转Spring](https://mp.weixin.qq.com/s/CCSNCYLDHqAkBxl6vcVTfQ)
   * [ElasticSearch中必须掌握的七个概念](https://mp.weixin.qq.com/s/S4jfnEpZL0TvwDxH79nfvw)
-
   * [Java中的锁居然有这么多!](https://mp.weixin.qq.com/s/r9HbTDwc4eyTAGwysS--zg)
-
   * [这5个GitHub项目+3个网站，助你一飞冲天！](https://mp.weixin.qq.com/s/ZudORvOPkzTYyhFBM5go8g)
-
   * [万字长文，带你快速上手这些池化技术！](https://mp.weixin.qq.com/s/D0nuvd1IWu4n5OqhesuPjA)
-
   * [服务发现机制SPI居然是破坏者？！](https://mp.weixin.qq.com/s/xz6XijCcl6vSd28n4AQtmw)
 
-    
 
-  
 
   ### 懒猪作者🐖
 
