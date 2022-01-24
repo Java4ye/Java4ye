@@ -16,7 +16,9 @@
   <a href="https://github.com/Java4ye/springboot-demo-4ye" style="display:inline-block">
     <img align="center" src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=Java4ye&repo=springboot-demo-4ye&show_icons=true&theme=vue-dark" />
   </a>
-<br/>
+
+
+  <div>
 
   <a href="https://github.com/Java4ye/SpringSecurity-Vuetify-Permissions-demo" style="display:inline-block">
     <img align="right"  src="https://github-readme-stats-phi-gules.vercel.app/api/pin/?username=Java4ye&repo=SpringSecurity-Vuetify-Permissions-demo&show_icons=true&theme=vue-dark" />
