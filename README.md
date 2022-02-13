@@ -58,7 +58,7 @@
 
   > **喜欢** 的话可以 **点赞 & 关注 并 星标** 下  ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Java4ye-%2341b783)   支持下 **4ye** 呀😝，这样就可以 第一时间收到更文消息 啦🐷
   >
-  > ![wechat](http://img.ryzeyang.top/image-20210807183203736.png)
+  > ![wechat](https://cdn.jsdelivr.net/gh/Java4ye/picb/image-20210807183203736.png)
 
 **感谢您的关注！您的每个关注，您的每个点赞，转发，在看！都是博主生发的动力 😝**
 
