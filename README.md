@@ -27,7 +27,7 @@
 
   --- 2021 ---
   * [2021的技术文总结，当然得酷一点~](https://mp.weixin.qq.com/s/0PCN-X_W02vbNiJC2WrzTA)
-  * [手把手带你玩转Spring](https://mp.weixin.qq.com/s/CCSNCYLDHqAkBxl6vcVTfQ)
+  * [手把手带你玩转Spring（文章合集）](https://mp.weixin.qq.com/s/CCSNCYLDHqAkBxl6vcVTfQ)
   * [ElasticSearch中必须掌握的七个概念](https://mp.weixin.qq.com/s/S4jfnEpZL0TvwDxH79nfvw)
   * [Java中的锁居然有这么多!](https://mp.weixin.qq.com/s/r9HbTDwc4eyTAGwysS--zg)
   * [这5个GitHub项目+3个网站，助你一飞冲天！](https://mp.weixin.qq.com/s/ZudORvOPkzTYyhFBM5go8g)
