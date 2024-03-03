@@ -6,9 +6,9 @@
   <br/>
 
   目前活跃的博客平台~ (可点击👇) 😝
-
+  
+  * [![Java4ye](https://img.shields.io/badge/知乎-Java4ye-%2341b783)](https://www.zhihu.com/people/java4ye-17)
   * [![Java4ye](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Java4ye-%2341b783)](https://juejin.cn/user/2304992131153981)
-  * [![Java4ye](https://img.shields.io/badge/CSDN-Java4ye-%2341b783)](https://blog.csdn.net/weixin_40251892)
 
   <br/>
 
