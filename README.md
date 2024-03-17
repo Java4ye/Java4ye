@@ -113,7 +113,11 @@
 
 ### <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2395282543903375362&scene=173&subscene=227&sessionid=1709784990&enterid=1709784996&from_msgid=2247491346&from_itemidx=1&count=3&nolastread=1#wechat_redirect" target="_blank">RabbitMQ 系列</a>
 
-<ul><li><a href="https://mp.weixin.qq.com/s/r--84m-qz2rP1OSSGgppMg">RabbitMQ搭建篇</a></li><li><a href="https://mp.weixin.qq.com/s/LVrTWrRCP2I-caAuF0DKNA">RabbitMQ概念篇</a></li></ul>
+<ul>
+    <li><a href="https://mp.weixin.qq.com/s/i3ihKK2-nU2wguLOYiEmGA">RabbitMQ代码篇之过期时间，死信队列，延迟队列，优先级队列的基本使用</a></li>
+    <li><a href="https://mp.weixin.qq.com/s/r--84m-qz2rP1OSSGgppMg">RabbitMQ搭建篇</a></li>
+    <li><a href="https://mp.weixin.qq.com/s/LVrTWrRCP2I-caAuF0DKNA">RabbitMQ概念篇</a></li>
+</ul>
 
 </td>
 <td></td>    
