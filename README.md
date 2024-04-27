@@ -118,7 +118,6 @@
     <li><a href="https://mp.weixin.qq.com/s/r--84m-qz2rP1OSSGgppMg">RabbitMQ搭建篇</a></li>
     <li><a href="https://mp.weixin.qq.com/s/LVrTWrRCP2I-caAuF0DKNA">RabbitMQ概念篇</a></li>
 </ul>
-
 </td>
 <td></td>    
 </tr>
@@ -135,8 +134,21 @@
 </td>
 <td></td>    
 </tr>
+ <!--第7行-->
+  <tr>
+    <td  width="10%"  > 基本功 </td>
+<td valign="top" >
+
+### <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3430380092298608642&scene=173&subscene=227&sessionid=1714219529&enterid=1714219602&from_msgid=2247492832&from_itemidx=1&count=3&nolastread=1#wechat_redirect" target="_blank">网络 </a>
+
+<ul><li><a href="https://mp.weixin.qq.com/s/NndwVqLGW2zrRaeVVLxsyw">Wireshark 抓包分析 TCP，ARP 协议</a></li><li><a href="https://mp.weixin.qq.com/s/qKc34kzuBLcYJoIo0ywJGw">DNS、HTTP、ICMP与shifen的探索</a></li></ul>
+
+</td>
+<td></td>    
+</tr>
     
-<!--第7行-->
+
+<!--第8行-->
   <tr>
     <td  width="10%"  > 其他 </td>
 <td valign="top" >
