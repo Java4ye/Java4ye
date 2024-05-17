@@ -36,11 +36,13 @@
 ###  语言
 #### [Java 专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2188076141037617152&scene=126&sessionid=380598264&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0" ) 
 
-* [再也不敢精通Java了——get/set篇](https://mp.weixin.qq.com/s/1mjUXU4HYY-gNfXP6b1VhA)  || [Java8 Stream 的核心秘密](https://mp.weixin.qq.com/s/cdjouLhI9ERpAdIy CykiFQ)  || [Effective Java 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&amp;action=getalbum&amp;album_id=2537417420773310466&amp;scene=173&amp;from_msgid=2247491931&amp;from_itemidx=1&amp;count=3&amp;nolastread=1#wechat_redirect)
+* [再也不敢精通Java了——get/set篇](https://mp.weixin.qq.com/s/1mjUXU4HYY-gNfXP6b1VhA)  || [Java8 Stream 的核心秘密](https://mp.weixin.qq.com/s/cdjouLhI9ERpAdIyCykiFQ)  || [Effective Java 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&amp;action=getalbum&amp;album_id=2537417420773310466&amp;scene=173&amp;from_msgid=2247491931&amp;from_itemidx=1&amp;count=3&amp;nolastread=1#wechat_redirect)
 
 #### [Python 专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=1734283344974053378&scene=126&sessionid=385628594&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0)
 
 * [2021的技术文总结，当然得酷一点~](https://mp.weixin.qq.com/s/0PCN-X_W02vbNiJC2WrzTA) || [Python 专区（掘金）](https://juejin.cn/column/6975133573619646500)
+
+
 
 
 
@@ -56,6 +58,8 @@
 
 ​    
 
+
+
 ### 前沿技术
 
 #### [云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2453933556943945730&scene=126&sessionid=380598264&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0" )
@@ -68,11 +72,22 @@
 
 
 
+
+
 ### 数据库
 
 #### [MySQL 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=1905400076504530946&scene=126&sessionid=385628594&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0" )
 
 - [MySQL索引的测试 (千万级数据) 以及特点总结](https://juejin.cn/post/6970627886382317604) || [我学MySQL8的小疑问](https://juejin.cn/post/6970235002617331725) || [MySQL各大版本新特性一览](https://mp.weixin.qq.com/s/rS13_oIWCUql0qe3xZu0Kg)
+
+
+
+#### [Redis 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3447244799584223235&scene=173&subscene=227&sessionid=1715958433&enterid=1715958462&from_msgid=2247492899&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+
+* [一个Redis分布式锁的实现引发的思考](https://mp.weixin.qq.com/s/xZ4Q28xtRg4ikVgDFK0tHA) || [Redisson分布式锁的源码解读](https://mp.weixin.qq.com/s/goj3B-KB01rtJgrNbB-_rA)
+* [Redis的RESP协议真的这么简单？抓包分析](https://mp.weixin.qq.com/s/71SLv-HJjSNI94zomstjAA)
+
+
 
 
 
@@ -84,6 +99,8 @@
 
 
 
+
+
 ### 搜索引擎
 
 ### [ElasticSearch 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2069771171255943174&scene=173&subscene=&sessionid=svr_507ce41ae68&enterid=1709780985&from_msgid=2247489221&from_itemidx=1&count=3&nolastread=1#wechat_redirect" )
@@ -92,11 +109,15 @@
 
 
 
+
+
 ### 基本功
 
 ### [网络](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3430380092298608642&scene=173&subscene=227&sessionid=1714219529&enterid=1714219602&from_msgid=2247492832&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
-- [Wireshark 抓包分析 TCP，ARP 协议](https://mp.weixin.qq.com/s/NndwVqLGW2zrRaeVVLxsyw) || [DNS、HTTP、ICMP与shifen的探索](https://mp.weixin.qq.com/s/qKc34kzuBLcYJoIo0ywJGw)
+- [Wireshark 抓包分析 TCP，ARP 协议](https://mp.weixin.qq.com/s/NndwVqLGW2zrRaeVVLxsyw) || [Wireshark 抓包分析 DNS、HTTP、ICMP 以及 shifen](https://mp.weixin.qq.com/s/qKc34kzuBLcYJoIo0ywJGw)
+
+
 
 
 
@@ -105,6 +126,8 @@
 ### [面试专题](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=1771227505320919046&scene=126&sessionid=385628594&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0)
 
 - [面试题：三个线程按顺序打印 ABCABC](https://mp.weixin.qq.com/s/JEPz8aQlr8YEYmGD6hyPjA)
+
+
 
 
 
