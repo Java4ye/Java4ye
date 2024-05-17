@@ -42,6 +42,8 @@
 
 * [2021的技术文总结，当然得酷一点~](https://mp.weixin.qq.com/s/0PCN-X_W02vbNiJC2WrzTA) || [Python 专区（掘金）](https://juejin.cn/column/6975133573619646500)
 
+  
+
 
 
 
@@ -85,7 +87,10 @@
 #### [Redis 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3447244799584223235&scene=173&subscene=227&sessionid=1715958433&enterid=1715958462&from_msgid=2247492899&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 * [一个Redis分布式锁的实现引发的思考](https://mp.weixin.qq.com/s/xZ4Q28xtRg4ikVgDFK0tHA) || [Redisson分布式锁的源码解读](https://mp.weixin.qq.com/s/goj3B-KB01rtJgrNbB-_rA)
+
 * [Redis的RESP协议真的这么简单？抓包分析](https://mp.weixin.qq.com/s/71SLv-HJjSNI94zomstjAA)
+
+  
 
 
 
@@ -97,15 +102,19 @@
 
 - [RabbitMQ代码篇之过期时间，死信队列，延迟队列，优先级队列的基本使用](https://mp.weixin.qq.com/s/i3ihKK2-nU2wguLOYiEmGA) || [RabbitMQ搭建篇](https://mp.weixin.qq.com/s/r--84m-qz2rP1OSSGgppMg) || [RabbitMQ概念篇](https://mp.weixin.qq.com/s/LVrTWrRCP2I-caAuF0DKNA)
 
+  
+
 
 
 
 
 ### 搜索引擎
 
-### [ElasticSearch 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2069771171255943174&scene=173&subscene=&sessionid=svr_507ce41ae68&enterid=1709780985&from_msgid=2247489221&from_itemidx=1&count=3&nolastread=1#wechat_redirect" )
+#### [ElasticSearch 系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=2069771171255943174&scene=173&subscene=&sessionid=svr_507ce41ae68&enterid=1709780985&from_msgid=2247489221&from_itemidx=1&count=3&nolastread=1#wechat_redirect" )
 
 - [ElasticSearch中必须掌握的七个概念](https://mp.weixin.qq.com/s/S4jfnEpZL0TvwDxH79nfvw) || [快速上手搜索引擎的秘密武器——Lucene](https://mp.weixin.qq.com/s/Fj4M8Q1NduKQJ8Z9Bh52cA)
+
+  
 
 
 
@@ -113,9 +122,11 @@
 
 ### 基本功
 
-### [网络](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3430380092298608642&scene=173&subscene=227&sessionid=1714219529&enterid=1714219602&from_msgid=2247492832&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+#### [网络](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=3430380092298608642&scene=173&subscene=227&sessionid=1714219529&enterid=1714219602&from_msgid=2247492832&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 - [Wireshark 抓包分析 TCP，ARP 协议](https://mp.weixin.qq.com/s/NndwVqLGW2zrRaeVVLxsyw) || [Wireshark 抓包分析 DNS、HTTP、ICMP 以及 shifen](https://mp.weixin.qq.com/s/qKc34kzuBLcYJoIo0ywJGw)
+
+  
 
 
 
@@ -123,9 +134,11 @@
 
 ### 其他
 
-### [面试专题](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=1771227505320919046&scene=126&sessionid=385628594&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0)
+#### [面试专题](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjUzODc5Mw==&action=getalbum&album_id=1771227505320919046&scene=126&sessionid=385628594&uin=&key=&devicetype=Windows+10+x64&version=63090819&lang=zh_CN&ascene=0)
 
 - [面试题：三个线程按顺序打印 ABCABC](https://mp.weixin.qq.com/s/JEPz8aQlr8YEYmGD6hyPjA)
+
+  
 
 
 
