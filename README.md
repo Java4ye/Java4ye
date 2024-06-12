@@ -79,11 +79,15 @@
 
 
 
+
+
+<img src="https://raw.githubusercontent.com/Java4ye/Java4ye/main/subscribe.gif" height="500"  >
+
 ---
 
 
 
-![wechat](https://cdn.jsdelivr.net/gh/Java4ye/picb/image-20210807183203736.png)
+
 
 
 
